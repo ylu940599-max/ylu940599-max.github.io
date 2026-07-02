@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://luhaorantxm0906.dpdns.org/sitemap.xml
